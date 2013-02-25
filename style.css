@@ -1,0 +1,39 @@
+body {
+	font-family: 'Consolas',‘Courier New’, Courier, monospace;
+	font-size: 16px;
+	background: $FFFFFF;/*#E2F7CE;*/
+	color: #333;/*#452632;*/
+}
+#mama {
+	margin: 36px 0 0 36px;
+}
+.a_main {
+	margin: 5px 0 0 0;
+	border-bottom: 1px dashed #333;
+	width: 650px;
+	line-height: 1.3em;
+}
+.a_n {
+	float: left;
+	padding: 2px 4px 2px 4px;
+	/*background: #E8BF56;*/
+}
+.a_date {
+	padding: 2px 4px 2px 20px;
+	float: left;
+	/*background: #E8BF56;*/
+}
+.a_text {
+	/*background: #E8BF56;*/
+	padding: 2px 0 2px 20px;
+	float: left;
+	width: 460px;
+	/*margin-left: 20px;*/
+}
+.clearer {
+	clear: both;
+}
+h1 {
+	font-size: 36px;
+	margin-bottom: 20px;
+}
